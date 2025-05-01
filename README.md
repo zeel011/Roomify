@@ -80,9 +80,9 @@ Contributions are what make the open source community such an amazing place to l
 
 ## 📞 Contact
 
-Mitesh - [@mitesh002](https://github.com/mitesh002)
+Zeel - [@zeel011](https://github.com/zeel011)
 
-Project Link: [https://github.com/mitesh002/Roomify](https://github.com/mitesh002/Roomify)
+Project Link: [Roomify](https://github.com/zeel011/Roomify)
 
 ## 🙏 Acknowledgments
 
